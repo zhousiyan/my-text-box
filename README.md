@@ -8,3 +8,7 @@
         <textarea id="editor" class="editor"></textarea>
         <div class="track"></div>  
 ~~~
+2. 引入css  
+~~~html
+    <link rel="stylesheet" href="./index.css">
+~~~
