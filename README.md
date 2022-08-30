@@ -18,8 +18,9 @@
 ~~~
 
 4. 默认参数
-~~~jscript
+~~~js
 config = {
+        
         text : {
             IdName : '#editor',
             ClassName : 'editor',
