@@ -12,3 +12,7 @@
 ~~~html
     <link rel="stylesheet" href="./index.css">
 ~~~
+3. 引入js
+~~~html
+<script src="./index.js"></script>
+~~~
