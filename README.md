@@ -18,7 +18,7 @@
 ~~~
 
 4. 默认参数
-~~~jsscript
+~~~jscript
 config = {
         text : {
             IdName : '#editor',
