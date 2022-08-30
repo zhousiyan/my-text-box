@@ -3,7 +3,7 @@
 ## 原生js文本下拉菜单显示  
 ## 使用步骤  
 1. 编写HTML  
-~~~
+~~~html
 <form class="box">
         <textarea id="editor" class="editor"></textarea>
         <div class="track"></div>  
