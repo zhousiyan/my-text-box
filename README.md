@@ -16,3 +16,32 @@
 ~~~html
 <script src="./index.js"></script>
 ~~~
+
+4. 默认参数
+~~~jsscript
+config = {
+        text : {
+            IdName : '#editor',
+            ClassName : 'editor',
+            width : '500px',
+            height : '200px',
+            backgroundColor : 'White',
+            fontSize: '20px',
+            color : 'black',
+
+            
+        },
+        track : {
+            ClassName: '.track',
+            width : '50px',
+            height : '20px',
+            backgroundColor : 'red',
+            fontSize: '20px',
+            color : 'black',
+
+        },
+        special : '@',
+
+
+    }
+~~~
