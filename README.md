@@ -20,7 +20,7 @@
 4. 默认参数
 ~~~js
 config = {
-        
+        //tset是文本框，tset里面是可更改的style参数
         text : {
             IdName : '#editor',
             ClassName : 'editor',
@@ -32,6 +32,7 @@ config = {
 
             
         },
+        //track是跟踪文本框的光标位置的下拉菜单，track里面是可更改的style参数
         track : {
             ClassName: '.track',
             width : '50px',
@@ -41,6 +42,7 @@ config = {
             color : 'black',
 
         },
+        //判断是否有特殊符号，显示菜单
         special : '@',
 
 
