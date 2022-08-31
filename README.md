@@ -1,6 +1,9 @@
 # my-text-box
 
-## 原生js文本框输出特殊符号出现下拉菜单显示
+## 原生js文本框输出特殊符号出现下拉菜单显示  
+## 效果图  
+![未命名 ‑ Made with FlexClip](https://user-images.githubusercontent.com/99531384/187633153-f9b4d6ce-ba06-4469-b4e3-295fa176f24c.gif)
+
 ## 实现思路
 ~~~
 关于光标定位的问题
