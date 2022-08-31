@@ -30,27 +30,22 @@
 ~~~js
 config = {
         //tset是文本框，tset里面是可更改的style参数
-        text : {
-            IdName : '#editor',
-            ClassName : 'editor',
-            width : '500px',
-            height : '200px',
-            backgroundColor : 'White',
-            fontSize: '20px',
-            color : 'black',
-
-            
-        },
+        textIdName : '#editor',
+        textClassName : 'editor',
+        textwidth : '500px',
+        textheight : '200px',
+        textbackgroundColor : 'White',
+        textfontSize: '20px',
+        textcolor : 'black',
+        
         //track是跟踪文本框的光标位置的下拉菜单，track里面是可更改的style参数
-        track : {
-            ClassName: '.track',
-            width : '50px',
-            height : '20px',
-            backgroundColor : 'red',
-            fontSize: '20px',
-            color : 'black',
+        trackClassName: '.track',
+        trackwidth : '50px',
+        trackheight : '20px',
+        trackbackgroundColor : 'red',
+        trackfontSize: '20px',
+        trackcolor : 'black',
 
-        },
         //判断是否有特殊符号，显示菜单
         special : '@',
 
